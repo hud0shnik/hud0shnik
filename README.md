@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://vk.com/hud0shnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="hud0shnik" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hud0shnik_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hud0shnik" height="30" width="40" /></a>
+<a href="https://vk.com/hud0shnik" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
+<a href="https://www.instagram.com/hud0shnik_/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="40" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
