@@ -2,9 +2,11 @@
 <h3 align="center"> A young beginner 😳 back end developer from Russia </h3>
 <h1></h1>
 
-- 🔭 I’m currently working on [LeetCode](https://github.com/hud0shnik/LeetCode)
+<h3 align="left">About me:</h3>
+
+- 🔭 I’m currently working on [my-LeetCode-repo](https://github.com/hud0shnik/LeetCode)
 - 🌱 I’m currently learning: **Backend, Data Science**
-- 💬 Ask me about **go lang**
+- 💬 Ask me about **go lang** and **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +26,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+  
+<h3 align="left">Statistics:</h3>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik" /></p>
