@@ -27,8 +27,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik"  width="495"  />
 <h3 align="left">🔥Statistics:</h3>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik" height="195"  />
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hud0shnik&theme=default&hide_border=true"/></a>
