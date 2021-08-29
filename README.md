@@ -2,18 +2,18 @@
 <h3 align="center"> A young beginner 😳 back end developer from Russia </h3>
 <h1></h1>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">🔎About me:</h3>
 
 - 🔭 I’m currently working on [my-LeetCode-repo](https://github.com/hud0shnik/LeetCode)
 - 🌱 I’m currently learning: **Backend, Data Science**
 - 💬 Ask me about **go lang** and **python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✉Connect with me:</h3>
 <p align="left">
 <a href="https://vk.com/hud0shnik" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
 <a href="https://www.instagram.com/hud0shnik_/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="40" width="40" /></a>  
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go lang" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -27,5 +27,10 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
   
-<h3 align="left">Statistics:</h3>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik" /></p>
+<h3 align="left">🔥Statistics:</h3>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik" height="195"  />
+</p>
+<p align="center">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hud0shnik&theme=default&hide_border=true"/></a>
+</p>
