@@ -1,5 +1,5 @@
 ### Hi 🙋🏻‍♂️, I'm Danila
-<h3 align="center"> A young beginner 😳 back end developer from Russia </h3>
+<h3 align="center"> Young beginner 😳 back end developer from Russia </h3>
 <h1></h1>
 
 <h3 align="left">🔎About me:</h3>
