@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on [my-LeetCode-repo](https://github.com/hud0shnik/LeetCode)
 - 🌱 I’m learning: **Backend, Data Science**
-- 💬 Ask me about **go lang**
+- 💬 Ask me about **golang**
+- 😍 I love Caesar salad, hibiscus tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 
 <h3 align="left">✉️Connect with me:</h3>
