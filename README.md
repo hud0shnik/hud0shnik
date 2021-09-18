@@ -1,4 +1,4 @@
-### Hi 🙋🏻‍♂️, I'm <a href="https://hud0shnik.github.io/" target="_blank">Danila</a>
+### Hi 🙋🏻‍♂️, I'm [Danila](https://hud0shnik.github.io/)
 <h3 align="center"> Young beginner 😳 back-end developer from Russia </h3>
 <h1></h1>
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">✉️Connect with me:</h3>
 <p align="left">
-<a href="https://vk.com/hud0shnik" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
-<a href="https://www.instagram.com/hud0shnik_/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="40" width="40"/></a>  
+<a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
+<a href="https://www.instagram.com/hud0shnik_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="40" width="40"/></a>  
 </p>
 <h3 align="left">🛠Languages and Tools:</h3>
 
