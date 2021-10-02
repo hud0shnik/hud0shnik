@@ -13,7 +13,7 @@
 <p align="left">
    <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
    <a href="https://t.me/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a> 
-   <a href="https://www.instagram.com/hud0shnik_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="40" width="40"/></a> 
+   <a href="https://www.instagram.com/hud0shnik_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="50" width="50"/></a> 
 </p>
 <h3 align="left">🛠Languages and Tools:</h3>
 <p align="left"> 
@@ -22,7 +22,7 @@
    <a href="https://www.python.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
    <a href="https://www.qt.io" target="_blank"> 
    <img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" alt="qt framework" width="40" height="40"/></a>
    <a href="https://www.w3.org/html/" target="_blank">
