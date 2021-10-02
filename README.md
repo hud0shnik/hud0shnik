@@ -11,7 +11,7 @@
 - 📫 How to reach me: c4nsero@mail.com
 <h3 align="left">✉️Connect with me:</h3>
 <p align="left">
-   <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
+   <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
    <a href="https://t.me/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a> 
    <a href="https://www.instagram.com/hud0shnik_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="40" width="40"/></a> 
 </p>
