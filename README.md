@@ -47,4 +47,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik"  width="490"/>
 <h3 align="left">🔥Statistics:</h3>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hud0shnik&theme=default&hide_border=true"/></a>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik"/>
+</a>
+
