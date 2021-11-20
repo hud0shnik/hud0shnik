@@ -8,7 +8,7 @@
 - 💬 Ask me about **golang**
 - 😍 I love Caesar salad, hibiscus tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
-- 📫 How to reach me: c4nsero@mail.com
+- 📫 How to reach me: danila_egorov02@mail.ru
 <h3 align="left">✉️Connect with me:</h3>
 <p align="left">
    <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
