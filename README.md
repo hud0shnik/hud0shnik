@@ -50,3 +50,10 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik"height="192px"/>
 </a>
+<br/>
+<br/>
+<details>
+   <summary>📈 Contribution Graph</summary>
+   <br/>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hud0shnik&bg_color=FFFFFF&color=000000&line=FF8C00&point=FF8C00&hide_border=true" /></a>
+</details>
