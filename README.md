@@ -1,4 +1,4 @@
-### Hi 🙋🏻‍♂️, I'm [Danila](https://hud0shnik.github.io/)
+### Hi 👋, I'm [Danila](https://hud0shnik.github.io/)
 <h3 align="center"> Young beginner 😳 back-end developer from Russia </h3>
 <h1></h1>
 <h3 align="left">🔎About me:</h3>
@@ -44,9 +44,9 @@
    <a href="https://code.visualstudio.com/" target="_blank">
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vs code" width="40" height="40"/></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&layout=compact&hide=html" alt="hud0shnik"  width="490"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=3&layout=compact&hide=JavaScript,CSS,HTML" height="192px"/>
 <h3 align="left">🔥Statistics:</h3>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=FF8C00&icon_color=FF8C00" height="192px"/></a> -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik"height="192px"/>
 </a>
-
