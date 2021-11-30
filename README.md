@@ -45,7 +45,7 @@
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vs code" width="40" height="40"/></a>
 </p>
 
-<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=3&layout=compact&hide=JavaScript,CSS,HTML" height="192px"/>
+<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=4&layout=compact&hide=JavaScript,CSS,HTML" height="192px"/>
 
 <h3>🔥 Statistics:</h3>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=FF8C00&icon_color=FF8C00" height="192px"/></a> -->
