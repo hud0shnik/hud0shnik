@@ -1,7 +1,7 @@
 ### Hi 👋, I'm [Danila](https://hud0shnik.github.io/)
 <h3 align="center"> Young beginner 😳 back-end developer from Russia </h3>
-<h1></h1>
-<h3 align="left">🔎About me:</h3>
+
+<h3>🔎About me:</h3>
 
 - 🔭 I’m currently working on [my-LeetCode-repo](https://github.com/hud0shnik/LeetCode)
 - 🌱 I’m learning: **Backend, Data Science**
@@ -10,15 +10,15 @@
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: danila_egorov02@mail.ru
 
-<h3 align="left">✉️Connect with me:</h3>
-<p align="left">
+<h3>✉️Connect with me:</h3>
+<p>
    <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a>
    <a href="https://t.me/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a> 
    <a href="https://www.instagram.com/hud0shnik_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="50" width="50"/></a> 
 </p>
 
-<h3 align="left">🛠Languages and Tools:</h3>
-<p align="left"> 
+<h3>🛠Languages and Tools:</h3>
+<p> 
    <a href="https://golang.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go lang" width="40" height="40"/></a>
    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -47,7 +47,7 @@
 
 <img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=3&layout=compact&hide=JavaScript,CSS,HTML" height="192px"/>
 
-<h3 align="left">🔥Statistics:</h3>
+<h3>🔥Statistics:</h3>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=FF8C00&icon_color=FF8C00" height="192px"/></a> -->
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
