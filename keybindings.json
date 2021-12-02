@@ -1,0 +1,10 @@
+// Две горячие клавиши чтобы быстро перемещаться по коду без использования стрелочек, так как когда я быстро набираю код вслепую
+[{
+    "key": "shift+f",
+    "command": "cursorLeft",
+    "when": "editorTextFocus"
+},{
+    "key": "shift+j",
+    "command": "cursorRight",
+    "when": "editorTextFocus"
+}]
