@@ -55,7 +55,7 @@
 <br/><br/>
 
 <details>
-   <summary> 📈 Contribution Graph </summary>
-   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hud0shnik's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hud0shnik&bg_color=FFFFFF&color=000000&line=FF8C00&point=FF8C00&hide_border=true"/></a>
+   <summary> 📈 Contribution Graph </summary><br/>
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hud0shnik's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hud0shnik&bg_color=FFFFFF&color=000000&line=FF8C00&point=FF8C00&hide_border=true"/></a>-->
+ <img src="https://activity-graph.herokuapp.com/graph?username=hud0shnik&bg_color=FFFFFF&color=000000&line=FF8C00&point=FF8C00&hide_border=true" width="100%">
 </details>
