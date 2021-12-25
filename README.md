@@ -3,7 +3,7 @@
 
 <h3>🔎 About me:</h3>
 
-- 🔭 I’m currently working on [my-LeetCode-repo](https://github.com/hud0shnik/LeetCode)
+- 🔭 I’m currently working on [telegram-go-bot](https://github.com/hud0shnik/telegram_go_bot)
 - 🌱 I’m learning: **Backend, Data Science**
 - 💬 Ask me about **golang**
 - 😍 I love Caesar salad, hibiscus tea, Hawaiian pizza and 💙golang💙
