@@ -45,17 +45,16 @@
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vs code" width="40" height="40"/></a>
 </p>
 
-<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=4&layout=compact&hide=JavaScript,CSS,HTML" height="192px"/>
+<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=JavaScript,CSS,HTML" height="192px"/>
 
 <h3>🔥 Statistics:</h3>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=FF8C00&icon_color=FF8C00" height="192px"/></a> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik"height="192px"/></a>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik&theme=monokai-metallian&hide_border=true"/></a>
 <br/><br/>
 
 <details>
    <summary> 📈 Contribution Graph </summary><br/>
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hud0shnik's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hud0shnik&bg_color=FFFFFF&color=000000&line=FF8C00&point=FF8C00&hide_border=true"/></a>-->
- <img src="https://activity-graph.herokuapp.com/graph?username=hud0shnik&bg_color=FFFFFF&color=000000&line=FF8C00&point=FF8C00&hide_border=true" width="100%">
+ <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hud0shnik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%">
 </details>
