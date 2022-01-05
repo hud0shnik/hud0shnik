@@ -1,6 +1,5 @@
 ### Hi 👋, I'm [Danila](https://hud0shnik.github.io/)
 <h3 align="center"> Young beginner 😳 back-end developer from Russia </h3>
-
 <h3>🔎 About me:</h3>
 
 - 🔭 I’m currently working on [telegram-go-bot](https://github.com/hud0shnik/telegram_go_bot)
@@ -9,14 +8,12 @@
 - 😍 I love Caesar salad, hibiscus tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: danila_egorov02@mail.ru
-
 <h3>✉️ Connect with me:</h3>
 <p>
    <a href="https://t.me/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a>
    <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a> 
    <a href="https://www.instagram.com/hud0shnik_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="hud0shnik" height="50" width="50"/></a> 
 </p>
-
 <h3>🛠 Languages and Tools:</h3>
 <p> 
    <a href="https://golang.org" target="_blank"> 
@@ -44,17 +41,14 @@
    <a href="https://code.visualstudio.com/" target="_blank">
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vs code" width="40" height="40"/></a>
 </p>
-
-<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=JavaScript,CSS,HTML" height="192px"/>
-
+<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&hide=JavaScript,CSS,HTML,c%2B%2B" height="198px"/>
 <h3>🔥 Statistics:</h3>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hud0shnik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hud0shnik&theme=monokai-metallian&hide_border=true"/></a>
 <br/><br/>
-
 <details>
-   <summary> 📈 Contribution Graph </summary><br/>
- <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hud0shnik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%">
+   <summary> 📈 Contribution Graph </summary>
+   <br/>
+   <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hud0shnik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%">
 </details>
