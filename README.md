@@ -1,6 +1,6 @@
 ### Hi 👋, I'm 
 <h3 align="center"> <a href="https://hud0shnik.github.io/">
-   <img alt="Danila" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Beginner+Golang++back-end+developer&font=Fira%20Code&center=true&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Danila Egorov" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Beginner+Golang++back-end+developer&font=Fira%20Code&center=true&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 <h3>🔎 About me :</h3>
 
@@ -10,11 +10,13 @@
 - 😍 I love Caesar salad, hibiscus tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: danila_egorov02@mail.ru
+
 <h3>✉️ Connect with me :</h3>
 <p>
    <a href="https://t.me/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a>
    <a href="https://vk.com/hud0shnik" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a> 
 </p>
+
 <h3>🛠 Languages and Tools :</h3>
 <p>
    <!-- Golang -->
@@ -61,10 +63,10 @@
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
 <img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,c%2B%2B" height="198px"/>
+
 <h3>🔥 Statistics :</h3>
-<!-- <img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/></a>
+<img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/></a>
 <br/><br/>
 <details>
    <summary> 📈 Contribution Graph </summary>
