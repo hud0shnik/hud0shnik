@@ -60,7 +60,7 @@
    <a href="https://github.com/hud0shnik/telegram_go_bot" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
-<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=568EA3&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,c%2B%2B" height="198px"/>
+<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,c%2B%2B" height="198px"/>
 <h3>🔥 Statistics :</h3>
 <!-- <img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
