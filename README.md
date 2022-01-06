@@ -1,5 +1,7 @@
-### Hi 👋, I'm [Danila](https://hud0shnik.github.io/)
-<h3 align="center"> Young beginner 😳 back-end developer from Russia </h3>
+### Hi 👋, I'm 
+<h3 align="center"> <a href="https://hud0shnik.github.io/">
+<img alt="Danila" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Beginner+Golang++back-end+developer&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=21"></a>
+</h3>
 <h3>🔎 About me:</h3>
 
 - 🔭 I’m currently working on [telegram-go-bot](https://github.com/hud0shnik/telegram_go_bot)
