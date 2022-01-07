@@ -59,7 +59,7 @@
    <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" target="_blank">
    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="Visual Studio" width="40" height="40"/></a>
    <!-- Heroku -->
-   <a href="https://github.com/hud0shnik/telegram_go_bot" target="_blank">
+   <a href="https://github.com/stars/hud0shnik/lists/my-bots" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
 <img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,c%2B%2B" height="198px"/>
