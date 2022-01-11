@@ -46,12 +46,12 @@
    <!-- Html -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
-   <!-- Git -->
-   <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
    <!-- Ubuntu -->
    <a href="https://ubuntu.com/" target="_blank">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
+   <!-- Git -->
+   <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
    <!-- Ruby -->
    <a href="https://github.com/search?l=Ruby&q=user%3Ahud0shnik&type=Repositories" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/></a>
