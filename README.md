@@ -65,6 +65,7 @@
 <img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,c%2B%2B" height="198px"/>
 
 <h3>🔥 Statistics :</h3>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt=" Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=FF8C00&icon_color=FF8C00" height="192px"/></a> -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/></a>
 <br/><br/>
