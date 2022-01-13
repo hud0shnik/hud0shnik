@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [telegram-go-bot](https://github.com/hud0shnik/telegram_go_bot)
 - 🌱 I’m learning: **Backend, Data Science**
-- 💬 Ask me about **Telegram bots**
+- 💬 Ask me about **[Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
 - 😍 I love Caesar salad, hibiscus tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: danila_egorov02@mail.ru
