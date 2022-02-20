@@ -4,7 +4,7 @@
 </h3>
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on [github-Go-API](https://github.com/hud0shnik/githubGoAPI)
+- 🔭 I’m currently working on [github-Stats-API](https://github.com/hud0shnik/GithubStatsAPI)
 - 🌱 I’m learning: **Backend, Data Science**
 - 💬 Ask me about **[my Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
