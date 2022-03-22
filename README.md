@@ -6,8 +6,8 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on ***[github-Stats-API](https://github.com/hud0shnik/GithubStatsAPI)***
-- 🌱 I’m learning: **Backend, Data Science**
+- 🔭 I’m currently working on ***[my github API](https://github.com/hud0shnik/GithubStatsAPI)***
+- 🌱 I’m learning: **Backend, Linux**
 - 💬 Ask me about **[my Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
@@ -73,16 +73,18 @@
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
 
-<img alt="hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,Shell,c%2B%2B" height="198px"/>
+<img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,HTML,Shell,c%2B%2B" height="198px"/>
 
 <h3>🔥 Statistics :</h3>
 
-<img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide=contribs&include_all_commits=true&custom_title=GitHub Stats"/>
+<img alt="Hud0shnik's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide=contribs&include_all_commits=true&custom_title=GitHub Stats"/>
 
 <img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
 <details>
    <summary> 📈 Contribution Graph </summary>
    <br/>
-   <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hud0shnik&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%">
+   
+   <img alt="Hud0shnik's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hud0shnik&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%">
+   
 </details>
