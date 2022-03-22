@@ -19,9 +19,6 @@
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
-   <!-- Golang -->
-   <a href="https://github.com/search?l=Go&q=user%3Ahud0shnik+language%3AGolang&type=Repositories" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/></a>
    <!-- Vs Code -->
    <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" target="_blank">
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
@@ -34,6 +31,9 @@
    <!-- CSS -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" target="_blank"> 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
+   <!-- Golang -->
+   <a href="https://github.com/search?l=Go&q=user%3Ahud0shnik+language%3AGolang&type=Repositories" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/></a>
    <!-- Arduino -->
    <a href="https://github.com/hud0shnik/arduino" target="_blank" target="_blank"> 
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
