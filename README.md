@@ -29,9 +29,6 @@
    <!-- Docker -->
    <a href="https://github.com/hud0shnik/golang-to-do" target="_blank">
    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
-   <!-- C++ -->
-   <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" target="_blank"> 
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
    <!-- CSS -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" target="_blank"> 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
