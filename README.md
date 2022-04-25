@@ -93,3 +93,12 @@
    <img alt="Hud0shnik's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
    
 </details>
+
+<details>
+   <summary> 🏆 Achievements </summary>
+   <br/>
+   
+ <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=onedark&title=MultiLanguage,Commits,Stars,Repositories,Followers">
+   
+   
+</details>
