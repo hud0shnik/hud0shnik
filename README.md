@@ -98,7 +98,7 @@
    <summary> 🏆 Achievements </summary>
    <br/>
    
- <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=onedark&title=MultiLanguage,Commits,Stars,Repositories,Followers">
+ <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Commits,Stars,Repositories,Followers&no-frame=true&margin-w=15">
    
    
 </details>
