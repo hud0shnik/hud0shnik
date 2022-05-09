@@ -87,7 +87,7 @@
 </details>
 
 <details>
-   <summary> 🦾 Profile-3d-contrib</summary>
+   <summary> 🦾 Profile-3d-contrib </summary>
    <br/>
    
    <img alt="Hud0shnik's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
@@ -102,3 +102,11 @@
    
    
 </details>
+
+<details>
+   <summary> 🕗 Time </summary>
+   
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+   
+</detals>
