@@ -2,7 +2,7 @@ name: wakatime-stats
 
 on:
   schedule:
-    - cron: '0 7 10 * *'
+    - cron: "8 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,11 +16,14 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: hud0shnik
           SHOW_OS: "False"
+          SHOW_TIMEZONE: "False"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_DAYS_OF_WEEK: "False"
+          SYMBOL_VERSION: 3
