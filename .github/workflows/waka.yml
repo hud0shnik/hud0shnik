@@ -21,6 +21,8 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
+          SHOW_TIME: "False"
+          SHOW_TOTAL: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LINES_OF_CODE: "False"
