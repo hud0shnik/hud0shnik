@@ -27,4 +27,3 @@ jobs:
           SHOW_LANGUAGE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_SHORT_INFO: "False"
-          SYMBOL_VERSION: 3
