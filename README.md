@@ -87,27 +87,18 @@
 </details>
 
 <details>
-   <summary> 🦾 Profile-3d-contrib </summary>
-   <br/>
-   
-   <img alt="Hud0shnik's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-   
-</details>
-
-<details>
    <summary> 🏆 Achievements </summary>
    <br/>
    
  <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Commits,Stars,Repositories,Followers&no-frame=true&margin-w=15">
    
-   
 </details>
 
 <details>
-   <summary> 🕗 Time </summary>
+   <summary> 🕗 WakaTime </summary>
    </br>
    
-   <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -149,4 +140,14 @@ Windows                  3 hrs 19 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <!--END_SECTION:waka-->
    
-</detals>
+</details>
+
+
+
+<details>
+   <summary> 🦾 Profile-3d-contrib </summary>
+   <br/>
+   
+   <img alt="Hud0shnik's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+   
+</details>
