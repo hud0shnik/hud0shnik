@@ -32,6 +32,9 @@
    <!-- CSS -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" target="_blank"> 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
+   <!-- Arch -->
+   <a href="https://github.com/hud0shnik?tab=repositories" target="_blank"> 
+   <img src="https://img.icons8.com/material-sharp/96/4a90e2/arch-linux.png" alt="CSS" width="40" height="40"/></a>
    <!-- Postgresql -->
    <a href="https://github.com/hud0shnik/golang-to-do" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
