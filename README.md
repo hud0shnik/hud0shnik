@@ -72,8 +72,9 @@
    <a href="https://github.com/stars/hud0shnik/lists/my-bots" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
-
+<!--
 <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,Java,HTML,Shell,c%2B%2B" height="198px"/>
+-->
 
 <h3>🔥 Statistics :</h3>
 
