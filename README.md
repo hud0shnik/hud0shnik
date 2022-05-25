@@ -6,7 +6,7 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on ***[my github API](https://github.com/hud0shnik/GithubStatsAPI)***
+- 🔭 I’m currently working on ***[OsuStatsApi](https://github.com/hud0shnik/OsuStatsApi)***
 - 🌱 I’m learning: **Backend, Linux**
 - 💬 Ask me about **[my Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
@@ -34,7 +34,7 @@
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
    <!-- Arch -->
    <a href="https://github.com/hud0shnik?tab=repositories" target="_blank"> 
-   <img src="https://img.icons8.com/material-sharp/96/4a90e2/arch-linux.png" alt="CSS" width="40" height="40"/></a>
+   <img src="https://img.icons8.com/material-sharp/96/4a90e2/arch-linux.png" alt="Arch" width="40" height="40"/></a>
    <!-- Postgresql -->
    <a href="https://github.com/hud0shnik/golang-to-do" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
@@ -72,9 +72,9 @@
    <a href="https://github.com/stars/hud0shnik/lists/my-bots" target="_blank">
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
-<!--
+
 <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,Java,HTML,Shell,c%2B%2B" height="198px"/>
--->
+
 
 <h3>🔥 Statistics :</h3>
 
