@@ -96,6 +96,11 @@
 <details>
    <summary> 🕗 WakaTime </summary>
    </br>
+   Total time coded since May 9 2022
+   </br> 
+   <img alt="Total time coded since May 9 2022" src="https://wakatime.com/badge/user/ee2709af-fc5f-498b-aaa1-3ea47bf12a00.svg?style=for-the-badge">
+   </br></br>
+   
    
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
