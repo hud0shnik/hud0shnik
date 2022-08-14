@@ -82,9 +82,9 @@
 
  <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18">
  
- <!-- Не работает с 11-08-22, пока убрал
-<img alt="Hud0shnik's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs&include_all_commits=true&custom_title=GitHub Stats"/>
--->
+
+<img alt="Hud0shnik's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+
 
 <details>
    <summary> 📈 Contribution Graph </summary>
