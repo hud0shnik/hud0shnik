@@ -12,6 +12,7 @@
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: danila_egorov02@mail.ru
+- 🍵 You may buy me a ***[tea](https://www.buymeacoffee.com/hud0shnik)***
 
 <h3>✉️ Connect with me :</h3>
 
