@@ -1,6 +1,6 @@
 ### Hi 👋, I'm 
 
-<h3 align="center"> <a href="https://hud0shnik.github.io/">
+<h3 align="center"><a href="https://hud0shnik.github.io/">
    <img alt="Danila Egorov" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Beginner+back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
@@ -15,14 +15,12 @@
 - 🍵 You may buy me a ***[tea](https://www.buymeacoffee.com/hud0shnik)***
 
 <h3>✉️ Connect with me :</h3>
-
 <p>
    <a href="https://t.me/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a>
-   <a href="https://vk.com/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40" /></a> 
+   <a href="https://vk.com/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40"/></a> 
 </p>
 
 <h3>🛠 Languages and Tools :</h3>
-
 <p>
    <!-- Vs Code -->
    <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" >
@@ -73,26 +71,17 @@
    <a href="https://github.com/stars/hud0shnik/lists/my-bots" >
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
-
 <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
 
-
 <h3>🔥 Statistics :</h3>
-
 <img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
-
- <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
- 
-
+<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
 <img alt="Hud0shnik's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
-
 
 <details>
    <summary> 📈 Contribution Graph </summary>
    <br/>
-   
    <img alt="Hud0shnik's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hud0shnik&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
-   
 </details>
 
 <details>
@@ -102,59 +91,43 @@
    </br> 
    <img alt="Total time coded since May 9 2022" src="https://wakatime.com/badge/user/ee2709af-fc5f-498b-aaa1-3ea47bf12a00.svg?style=for-the-badge">
    </br></br>
+
+   <!--START_SECTION:waka-->
    
-   
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    209 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.5% 
-🌆 Daytime    645 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.67% 
-🌃 Evening    581 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.53% 
-🌙 Night      113 commits    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.3%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       207 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.37% 
-Tuesday      207 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.37% 
-Wednesday    213 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.76% 
-Thursday     231 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.92% 
-Friday       237 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.31% 
-Saturday     245 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.83% 
-Sunday       208 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.44%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       3 hrs 5 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.99% 
-Bash                     1 hr 31 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.52% 
-HTML                     5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.77% 
-YAML                     5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.76% 
-Markdown                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.54%
-
-💻 Operating System: 
-Linux                    3 hrs 8 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.79% 
-Windows                  1 hr 42 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.21%
-
-```
-
-
-<!--END_SECTION:waka-->
-   
+   **I'm an Early 🐤** 
+   ```text
+   🌞 Morning    209 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.5% 
+   🌆 Daytime    645 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.67% 
+   🌃 Evening    581 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.53% 
+   🌙 Night      113 commits    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.3%
+   ```
+   📅 **I'm Most Productive on Saturday** 
+   ```text
+   Monday       207 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.37% 
+   Tuesday      207 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.37% 
+   Wednesday    213 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.76% 
+   Thursday     231 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.92% 
+   Friday       237 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.31% 
+   Saturday     245 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.83% 
+   Sunday       208 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.44%
+   ```
+   📊 **This Week I Spent My Time On** 
+   ```text
+   💬 Programming Languages: 
+   Go                       3 hrs 5 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.99% 
+   Bash                     1 hr 31 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.52% 
+   HTML                     5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.77% 
+   YAML                     5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.76% 
+   Markdown                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.54%
+   💻 Operating System: 
+   Linux                    3 hrs 8 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.79% 
+   Windows                  1 hr 42 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.21%
+   ```
+   <!--END_SECTION:waka-->
 </details>
-
-
 
 <details>
    <summary> 🦾 Profile-3d-contrib </summary>
    <br/>
-   
    <img alt="Hud0shnik's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-   
 </details>
