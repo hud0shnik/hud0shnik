@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo "connection check"
+
+ping -c 3 -q gnu.org
