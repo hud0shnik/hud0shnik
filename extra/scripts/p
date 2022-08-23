@@ -2,4 +2,12 @@
 
 echo "connection check"
 
-ping -c 3 -q gnu.org
+result=$(ping -c 1 -q gnu.org | grep '1 ')
+result=${result#*,}
+result=${result%, time*}
+
+if [ "$result" == " 1 received, 0% packet loss" ]; then
+    echo "Ok"
+else
+    echo "Okn't"
+fi
