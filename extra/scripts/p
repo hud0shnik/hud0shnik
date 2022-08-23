@@ -2,10 +2,12 @@
 
 echo "connection check"
 
+# Обрезка результата пинга
 result=$(ping -c 1 -q gnu.org | grep '1 ')
 result=${result#*,}
 result=${result%, time*}
 
+# Проверка значения
 if [ "$result" == " 1 received, 0% packet loss" ]; then
     echo "Ok"
 else
