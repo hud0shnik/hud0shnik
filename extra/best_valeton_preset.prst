@@ -2,7 +2,7 @@
 
 <GP-100>
   <preset_info software="1.2.0" firmware="1.6" product="GP-100" count="99" platform="WINDOWS"
-               time="1664475483298"/>
+               time="1664568089911"/>
   <ppIRInfo>
     <ppIRInfo0 ppIRNum="168820736" ppIRName="User IR" ppIRCRC="490269063"/>
     <ppIRInfo1 ppIRNum="168820737" ppIRName="User IR" ppIRCRC="-1871114785"/>
@@ -91,12 +91,11 @@
             params_4="0" params_5="0" params_6="0" params_7="0" params_8="65535"
             params_9="65535" params_10="65535" params_11="65535" params_12="0"
             params_13="0" params_14="0"/>
-    <Effect effectModuleName="MOD" effectName="A-Chorus" effectState="0"
-            effectCode="67108864" params_0="50" x="6" y="0" params_1="0.5"
-            params_2="50" params_3="0" params_4="65535" params_5="65535"
-            params_6="65535" params_7="65535" params_8="65535" params_9="65535"
-            params_10="65535" params_11="65535" params_12="0" params_13="0"
-            params_14="0"/>
+    <Effect effectModuleName="MOD" effectName="Vibrato" effectState="0" effectCode="67108885"
+            x="6" y="0" params_0="92" params_1="4" params_2="1" params_3="50"
+            params_4="1" params_5="65535" params_6="65535" params_7="65535"
+            params_8="65535" params_9="65535" params_10="65535" params_11="65535"
+            params_12="0" params_13="0" params_14="0"/>
     <Effect effectModuleName="EQ" effectName="EQ 1" effectState="1" effectCode="16777269"
             params_0="0" x="5" y="0" params_1="0" params_2="32" params_3="35"
             params_4="26" params_5="50" params_6="65535" params_7="65535"
@@ -109,7 +108,7 @@
             params_10="65535" params_11="65535" params_12="0" params_13="0"
             params_14="0"/>
     <Effect effectModuleName="NR" effectName="Gate 1" effectState="1" effectCode="27"
-            params_0="20" x="3" y="0" params_1="65535" params_2="65535" params_3="65535"
+            params_0="25" x="3" y="0" params_1="65535" params_2="65535" params_3="65535"
             params_4="65535" params_5="65535" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
@@ -119,18 +118,18 @@
             params_9="65535" params_10="65535" params_11="65535" params_12="0"
             params_13="0" params_14="0"/>
     <Effect effectModuleName="DST" effectName="Green OD" effectState="1"
-            effectCode="50331648" params_0="7" x="1" y="0" params_1="48"
-            params_2="60" params_3="50" params_4="50" params_5="65535" params_6="65535"
+            effectCode="50331648" params_0="7" x="1" y="0" params_1="62"
+            params_2="49" params_3="50" params_4="50" params_5="65535" params_6="65535"
             params_7="65535" params_8="65535" params_9="65535" params_10="65535"
             params_11="65535" params_12="0" params_13="0" params_14="0"/>
-    <Effect effectModuleName="PRE" effectName="OCTA" effectState="0" effectCode="16777249"
-            params_0="50" x="0" y="0" params_1="0" params_2="50" params_3="50"
+    <Effect effectModuleName="PRE" effectName="Boost" effectState="0" effectCode="26"
+            x="0" y="0" params_0="77" params_2="0" params_1="0" params_3="50"
             params_4="0" params_5="60" params_6="0" params_7="65535" params_8="65535"
             params_9="65535" params_10="65535" params_11="65535" params_12="0"
             params_13="0" params_14="0"/>
-    <ppCtrl c11="5" c12="1" c13="65535" c21="2" c22="4" c23="65535"/>
+    <ppCtrl c11="0" c12="65535" c13="65535" c21="2" c22="4" c23="65535"/>
     <ppEXP1 expTarget="0" expVolume="0" expVolumeMin="0" expVolumeMax="99">
-      <ppEXP1_0 expMId="0" expCode="16777249" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_0 expMId="0" expCode="26" expIndex="0" expMin="0" expMax="99"/>
       <ppEXP1_1 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
       <ppEXP1_2 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
     </ppEXP1>
@@ -144,39 +143,39 @@
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
     <Effect effectModuleName="DLY" effectName="Sweet" effectState="0" effectCode="184549389"
-            params_0="50" x="7" y="0" params_1="500" params_2="50" params_3="0"
+            params_0="50" x="6" y="0" params_1="500" params_2="50" params_3="0"
             params_4="0" params_5="65535" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
     <Effect effectModuleName="MOD" effectName="A-Chorus" effectState="0"
-            effectCode="67108864" params_0="50" x="6" y="0" params_1="0.5"
+            effectCode="67108864" params_0="50" x="5" y="0" params_1="0.5"
             params_2="50" params_3="0" params_4="65535" params_5="65535"
             params_6="65535" params_7="65535" params_8="65535" params_9="65535"
             params_10="65535" params_11="65535" params_12="0" params_13="0"
             params_14="0"/>
     <Effect effectModuleName="EQ" effectName="EQ 1" effectState="0" effectCode="16777269"
-            params_0="0" x="5" y="0" params_1="0" params_2="0" params_3="0"
+            params_0="0" x="4" y="0" params_1="0" params_2="0" params_3="0"
             params_4="0" params_5="49" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
     <Effect effectModuleName="CAB" effectName="UK-75 4x12" effectState="1"
-            effectCode="167772208" params_0="50" x="4" y="0" params_1="78"
+            effectCode="167772208" params_0="50" x="3" y="0" params_1="78"
             params_2="65535" params_3="65535" params_4="65535" params_5="65535"
             params_6="65535" params_7="65535" params_8="65535" params_9="65535"
             params_10="65535" params_11="65535" params_12="0" params_13="0"
             params_14="0"/>
     <Effect effectModuleName="NR" effectName="Gate 1" effectState="1" effectCode="27"
-            params_0="25" x="3" y="0" params_1="35" params_2="28" params_3="65535"
+            params_0="20" x="7" y="0" params_1="35" params_2="28" params_3="65535"
             params_4="65535" params_5="65535" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
     <Effect effectModuleName="AMP" effectName="UK 800" effectState="1" effectCode="117440565"
             params_0="54" x="2" y="0" params_1="50" params_2="77" params_3="75"
-            params_4="20" params_5="74" params_6="50" params_7="65535" params_8="65535"
+            params_4="80" params_5="74" params_6="50" params_7="65535" params_8="65535"
             params_9="65535" params_10="65535" params_11="65535" params_12="0"
             params_13="0" params_14="0"/>
     <Effect effectModuleName="DST" effectName="Green OD" effectState="1"
-            effectCode="50331648" params_0="76" x="1" y="0" params_1="88"
+            effectCode="50331648" x="1" y="0" params_0="21" params_1="70"
             params_2="50" params_3="50" params_4="50" params_5="65535" params_6="65535"
             params_7="65535" params_8="65535" params_9="65535" params_10="65535"
             params_11="65535" params_12="0" params_13="0" params_14="0"/>
@@ -188,8 +187,8 @@
     <ppCtrl c11="65535" c12="1" c13="65535" c21="2" c22="4" c23="8"/>
     <ppEXP1 expTarget="0" expVolume="0" expVolumeMin="0" expVolumeMax="99">
       <ppEXP1_0 expMId="0" expCode="0" expIndex="0" expMin="0" expMax="99"/>
-      <ppEXP1_1 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
-      <ppEXP1_2 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_1 expMId="65535" expCode="524294" expIndex="0" expMin="0" expMax="99"/>
+      <ppEXP1_2 expMId="65535" expCode="524294" expIndex="0" expMin="0" expMax="99"/>
     </ppEXP1>
   </presets>
   <presets ppBank="0" ppName="OW Soloooooo" ppVolume="60" ppID="3" ppBPM="120"
@@ -286,9 +285,9 @@
             params_4="50" params_5="50" params_6="50" params_7="65535" params_8="255"
             params_9="0" params_10="50" params_11="257" params_12="0" params_13="0"
             params_14="0"/>
-    <Effect effectModuleName="DST" effectName="Super OD" effectState="0"
-            effectCode="50331654" params_0="50" x="1" y="0" params_1="92"
-            params_2="50" params_3="65535" params_4="65535" params_5="65535"
+    <Effect effectModuleName="DST" effectName="Green OD" effectState="0"
+            effectCode="50331648" x="1" y="0" params_0="77" params_1="99"
+            params_2="36" params_3="65535" params_4="65535" params_5="65535"
             params_6="65535" params_7="65535" params_8="65535" params_9="65535"
             params_10="50" params_11="50" params_12="0" params_13="0" params_14="0"/>
     <Effect effectModuleName="PRE" effectName="COMP  " effectState="0" effectCode="0"
@@ -414,8 +413,8 @@
       <ppEXP1_2 expMId="65535" expCode="524295" expIndex="0" expMin="0" expMax="99"/>
     </ppEXP1>
   </presets>
-  <presets ppBank="0" ppName="Modern UK" ppVolume="60" ppID="7" ppBPM="120"
-           ppIRNum="27" ppType="4" ppAuthor="" ppNotes="" ppTypeName="Rock">
+  <presets ppBank="0" ppName="Nothin'" ppVolume="60" ppID="7" ppBPM="120"
+           ppIRNum="27" ppType="4" ppAuthor="Nothin'" ppNotes="" ppTypeName="Rock">
     <Effect effectModuleName="RVB" effectName="Room" effectState="0" effectCode="201326592"
             params_0="20" x="8" y="0" params_1="30" params_2="50" params_3="0"
             params_4="65535" params_5="65535" params_6="65535" params_7="65535"
@@ -437,29 +436,29 @@
             params_4="0" params_5="49" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
-    <Effect effectModuleName="CAB" effectName="UK-MD 4x12" effectState="1"
+    <Effect effectModuleName="CAB" effectName="UK-MD 4x12" effectState="0"
             effectCode="167772193" params_0="56" x="4" y="0" params_1="60"
             params_2="65535" params_3="65535" params_4="65535" params_5="65535"
             params_6="65535" params_7="65535" params_8="65535" params_9="65535"
             params_10="65535" params_11="65535" params_12="0" params_13="0"
             params_14="0"/>
     <Effect effectModuleName="NR" effectName="Gate 1" effectState="1" effectCode="27"
-            params_0="23" x="3" y="0" params_1="50" params_2="99" params_3="65535"
+            params_0="23" x="0" y="0" params_1="50" params_2="99" params_3="65535"
             params_4="65535" params_5="65535" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
-    <Effect effectModuleName="AMP" effectName="Flagman" effectState="1" effectCode="117440576"
-            params_0="50" x="2" y="0" params_1="23" params_2="64" params_3="67"
+    <Effect effectModuleName="AMP" effectName="Flagman" effectState="0" effectCode="117440576"
+            params_0="50" x="3" y="0" params_1="23" params_2="64" params_3="67"
             params_4="32" params_5="66" params_6="50" params_7="65535" params_8="65535"
             params_9="65535" params_10="65535" params_11="65535" params_12="0"
             params_13="0" params_14="0"/>
     <Effect effectModuleName="DST" effectName="Yellow OD" effectState="0"
-            effectCode="50331650" params_0="30" x="1" y="0" params_1="83"
+            effectCode="50331650" params_0="30" x="2" y="0" params_1="83"
             params_2="50" params_3="50" params_4="50" params_5="65535" params_6="65535"
             params_7="65535" params_8="65535" params_9="65535" params_10="65535"
             params_11="65535" params_12="0" params_13="0" params_14="0"/>
-    <Effect effectModuleName="PRE" effectName="Boost" effectState="1" effectCode="26"
-            params_0="33" x="0" y="0" params_1="1" params_2="1" params_3="65535"
+    <Effect effectModuleName="PRE" effectName="Boost" effectState="0" effectCode="26"
+            params_0="33" x="1" y="0" params_1="1" params_2="1" params_3="65535"
             params_4="65535" params_5="65535" params_6="65535" params_7="65535"
             params_8="65535" params_9="65535" params_10="65535" params_11="65535"
             params_12="0" params_13="0" params_14="0"/>
