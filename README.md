@@ -1,7 +1,7 @@
 ### Hi 👋, I'm 
 
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Danila Egorov" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Beginner+back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Danila Egorov" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Go+Back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 <h3>🔎 About me :</h3>
