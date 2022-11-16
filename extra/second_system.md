@@ -18,7 +18,7 @@
      /ossssssss/        +ssssooo/-       Terminal: xfce4-terminal 
    `/ossssso+/:-        -:/+osssso+-     Terminal Font: Monospace 12 
   `+sso+:-`                 `.-/+oso:    CPU: Intel i7-8565U (8) @ 4.600GHz 
- `++:.                           `-/+/   GPU: Intel WhiskeyLake-U GT2 [UHD Grap 
+ `++:.                           `-/+/   GPU: Intel WhiskeyLake-U GT2 [UHD Graphics 620] 
  .`                                 `/   Memory: 1604MiB / 7710MiB 
 
 ```
