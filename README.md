@@ -75,9 +75,8 @@
    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
 
-<!-- Убрал на время (пока не работает)
-<img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
--->
+
+<img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hud0shnik&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
 
 <h3>🔥 Statistics :</h3>
 <img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
