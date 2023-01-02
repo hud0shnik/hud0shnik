@@ -66,7 +66,7 @@
    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/></a>
    <!-- Visual Studio -->
    <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" >
-   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="Visual Studio" width="40" height="40"/></a>
+   <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
    <!-- Bash -->
    <a href="https://www.gnu.org/software/bash/">
    <img src="https://img.icons8.com/ios-glyphs/60/79589f/console.png" alt="Bash"  width="40" height="40"/></a>
