@@ -6,7 +6,7 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on ***[OsuStatsApi](https://github.com/hud0shnik/OsuStatsApi)***
+- 🔭 I’m currently working on ***[osu_bot](https://github.com/hud0shnik/osu_bot)***
 - 🌱 I’m learning: **Backend, Linux**
 - 💬 Ask me about **[my Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
