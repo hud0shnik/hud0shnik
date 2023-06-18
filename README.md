@@ -87,7 +87,7 @@
 <details>
    <summary> 📈 Contribution Graph </summary>
    <br/>
-   <img alt="Hud0shnik's Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Hud0shnik&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
+   <img alt="Hud0shnik's Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hud0shnik&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
    
 </details>
 
