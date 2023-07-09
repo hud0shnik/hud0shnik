@@ -26,7 +26,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           SHOW_COMMIT: "True"
           SYMBOL_VERSION: 2
-          SHOW_OS: "True"
+          SHOW_OS: "False"
