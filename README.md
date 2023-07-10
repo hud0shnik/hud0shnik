@@ -7,7 +7,7 @@
 <h3>🔎 About me :</h3>
 
 - 🔭 I’m currently working on ***[OsuStatsApi](https://github.com/hud0shnik/OsuStatsApi)***
-- 🌱 I’m learning: **Backend, Linux**
+- 🌱 I’m learning: **Backend, Linux, IT Security**
 - 💬 Ask me about **[my Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
