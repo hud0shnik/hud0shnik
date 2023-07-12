@@ -70,9 +70,6 @@
    <!-- Bash -->
    <a href="https://www.gnu.org/software/bash/">
    <img src="https://img.icons8.com/ios-glyphs/60/79589f/console.png" alt="Bash"  width="40" height="40"/></a>
-   <!-- Heroku -->
-   <a href="https://github.com/stars/hud0shnik/lists/my-bots" >
-   <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
 </p>
 
 
