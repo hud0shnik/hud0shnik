@@ -2,7 +2,7 @@ name: wakatime-stats
 
 on:
   schedule:
-    - cron: "08 23 * * *"
+    - cron: "59 23 * * *"
   workflow_dispatch:
 
 jobs:
