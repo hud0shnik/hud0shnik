@@ -58,6 +58,9 @@
    <!-- Ubuntu -->
    <a href="https://ubuntu.com/" >
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
+   <!-- GitLab -->
+   <a href="https://gitlab.com/" >
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" alt="GitLab" width="40" height="40"/></a>
    <!-- Git -->
    <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
