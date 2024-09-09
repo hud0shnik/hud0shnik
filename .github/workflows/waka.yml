@@ -25,8 +25,8 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
           SHOW_COMMIT: "True"
           SYMBOL_VERSION: 2
-          SHOW_OS: "False"
+          SHOW_OS: "True"
