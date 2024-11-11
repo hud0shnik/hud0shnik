@@ -6,9 +6,8 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on ***[Vall-Halla-api](https://github.com/hud0shnik/vallhallaapi)***
-- 🌱 I’m learning: **Backend, Linux, IT Security**
-- 💬 Ask me about **[my Telegram bots](https://github.com/stars/hud0shnik/lists/my-bots)**
+- 🔭 I’m currently working on **[ASM](https://www.facct.ru/products/attack-surface-management/)** as a **Back-end developer** & **Team leader**
+- 🌱 I’m learning: **Backend, Linux, Cybersecurity**
 - 😍 I love green tea, Hawaiian pizza and 💙golang💙
 - ⚡ Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: danila_egorov02@mail.ru
