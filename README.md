@@ -40,6 +40,9 @@
    <!-- Golang -->
    <a href="https://github.com/search?l=Go&q=user%3Ahud0shnik+language%3AGolang&type=Repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/></a>
+   <!-- Elasticsearch -->
+   <a href="https://www.elastic.co/elasticsearch" > 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elasticsearch/elasticsearch-plain.svg" alt="Golang" width="40" height="40"/></a>
    <!-- Arduino -->
    <a href="https://github.com/hud0shnik/arduino"  > 
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
@@ -52,6 +55,9 @@
    <!-- JavaScript -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+   <!-- RabbitMQ -->
+   <a href="https://www.rabbitmq.com/" > 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg" alt="Golang" width="40" height="40"/></a>
    <!-- Html -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" >
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
@@ -64,9 +70,6 @@
    <!-- Git -->
    <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-   <!-- Ruby -->
-   <a href="https://github.com/search?l=Ruby&q=user%3Ahud0shnik&type=Repositories" >
-   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/></a>
    <!-- Visual Studio -->
    <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" >
    <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
