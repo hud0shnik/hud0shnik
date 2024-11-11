@@ -16,6 +16,7 @@
 <h3>✉️ Connect with me :</h3>
 <p>
    <a href="https://t.me/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a>
+   <a href="mailto:danila_egorov02@mail.ru"><img align="center" src="https://img.icons8.com/color/96/circled-envelope.png" alt="hud0shnik" height="40" width="40"/></a>
    <a href="https://vk.com/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40"/></a> 
 </p>
 
@@ -88,12 +89,12 @@
 <details>
    <summary> 🕗 WakaTime </summary>
    </br>
-   Total time coded since May 9 2022
+   Total time coded since 2022
    </br> 
    <img alt="Total time coded since May 9 2022" src="https://wakatime.com/badge/user/ee2709af-fc5f-498b-aaa1-3ea47bf12a00.svg?style=for-the-badge">
    </br></br>
 
-   <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
