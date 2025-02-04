@@ -28,24 +28,24 @@
    <!-- Docker -->
    <a href="https://github.com/hud0shnik/golang-to-do" >
    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
-   <!-- CSS -->
-   <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
-   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
    <!-- Arch -->
    <a href="https://github.com/hud0shnik?tab=repositories" > 
    <img src="https://img.icons8.com/material-sharp/96/4a90e2/arch-linux.png" alt="Arch" width="40" height="40"/></a>
+   <!-- CSS -->
+   <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
+   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
    <!-- Postgresql -->
    <a href="https://github.com/hud0shnik/golang-to-do" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
    <!-- Golang -->
    <a href="https://github.com/search?l=Go&q=user%3Ahud0shnik+language%3AGolang&type=Repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/></a>
-   <!-- Elasticsearch -->
-   <a href="https://www.elastic.co/elasticsearch" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elasticsearch/elasticsearch-plain.svg" alt="Golang" width="40" height="40"/></a>
    <!-- Arduino -->
    <a href="https://github.com/hud0shnik/arduino"  > 
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
+   <!-- Elasticsearch -->
+   <a href="https://www.elastic.co/elasticsearch" > 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elasticsearch/elasticsearch-plain.svg" alt="Golang" width="40" height="40"/></a>
    <!-- Qt -->
    <a href="https://github.com/hud0shnik/messenger" > 
    <img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" alt="Qt" width="40" height="40"/></a>
@@ -82,9 +82,7 @@
 
 <h3>🔥 Statistics :</h3>
 
-<!-- Пока не работает(
-<img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
--->
+<img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/> 
 
 <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Experience,PullRequest,Followers,Stars&no-frame=true&margin-w=18"/>
 <img alt="Hud0shnik's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hud0shnik&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
