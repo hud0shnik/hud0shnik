@@ -31,6 +31,9 @@
    <!-- Arch -->
    <a href="https://github.com/hud0shnik?tab=repositories" > 
    <img src="https://img.icons8.com/material-sharp/96/4a90e2/arch-linux.png" alt="Arch" width="40" height="40"/></a>
+   <!-- Kubernetes -->
+   <a href="https://kubernetes.io/" >
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
    <!-- CSS -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
