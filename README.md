@@ -34,9 +34,9 @@
    <!-- Kubernetes -->
    <a href="https://kubernetes.io/" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
-   <!-- CSS -->
+   <!-- CSS
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
-   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
+   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>  -->
    <!-- Postgresql -->
    <a href="https://github.com/hud0shnik/golang-to-do" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
@@ -49,24 +49,24 @@
    <!-- Elasticsearch -->
    <a href="https://www.elastic.co/elasticsearch" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elasticsearch/elasticsearch-plain.svg" alt="Golang" width="40" height="40"/></a>
-   <!-- Qt -->
+   <!-- Qt
    <a href="https://github.com/hud0shnik/messenger" > 
-   <img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" alt="Qt" width="40" height="40"/></a>
+   <img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" alt="Qt" width="40" height="40"/></a>  -->
    <!-- Python -->
    <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-   <!-- JavaScript -->
+   <!-- JavaScript
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>  -->
    <!-- Grafana -->
    <a href="https://grafana.com/">
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
    <!-- RabbitMQ -->
    <a href="https://www.rabbitmq.com/" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg" alt="Golang" width="40" height="40"/></a>
-   <!-- Html -->
+   <!-- Html
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" >
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>  -->
    <!-- Ubuntu -->
    <a href="https://ubuntu.com/" >
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
