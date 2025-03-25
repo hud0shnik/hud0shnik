@@ -58,6 +58,9 @@
    <!-- JavaScript -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+   <!-- Grafana -->
+   <a href="https://grafana.com/">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
    <!-- RabbitMQ -->
    <a href="https://www.rabbitmq.com/" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg" alt="Golang" width="40" height="40"/></a>
