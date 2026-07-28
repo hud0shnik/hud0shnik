@@ -102,6 +102,8 @@
    </br></br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2025%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -141,6 +143,29 @@ Claude Code              57 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 💻 Operating System: 
 Linux                    5 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 36 mins (48.41%)
+
+✍️ 186 lines written by AI, 190 lines written by hand (49.47% AI-written)
+
+🔤 3,280,215 Input Tokens, 38,115 Output Tokens
+
+💵 $10.33 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 20 AI Prompts
+
+Sonnet                   195 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.59 % 
+Cursor                   44 lines            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.41 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 49.47% of written lines came from AI
+📝 Concise Prompter — average 170 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 86.03% of changed lines were hand-edited
 ```
 
 
