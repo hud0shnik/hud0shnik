@@ -28,7 +28,7 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_COMMIT: "True"
+          SHOW_AI_CODING: "False"
           SHOW_AI_CODE_TIME: "False"
-          SHOW_AI_CODE: "False"
           SYMBOL_VERSION: 2
           SHOW_OS: "True"
